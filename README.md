@@ -1,2 +1,37 @@
-# Metromitra-A-Unified-Metro-Booking-and-Navigation-Solution
-Metromitra is a unified metro booking and navigation app for Indian cities, featuring real-time metro updates, journey planning, Razorpay-powered ticket booking, and last-mile cab integration. Built with Flutter, Firebase, and REST APIs to promote seamless urban transit.
+Metromitra – A Unified Metro Booking and Navigation Solution
+🚇 Overview
+Metromitra is a centralized mobile application built to unify metro booking and navigation across India. It offers real-time metro updates, smart journey planning, ticket booking via Razorpay, and last-mile cab connectivity.
+
+🛠️ Features
+Real-time metro schedules and ETA
+
+Intelligent journey planning and route optimization
+
+Seamless ticket booking with Razorpay integration
+
+Last-mile connectivity via cab services
+
+Clean and accessible user interface
+
+📱 Tech Stack
+Frontend: Flutter
+
+Backend: Firebase, Node.js
+
+Database: Firestore / MongoDB
+
+Payments: Razorpay API
+
+APIs: RESTful services for real-time metro data and cab integration
+
+🚀 How to Run
+Clone the repository
+
+Install dependencies using flutter pub get
+
+Set up Firebase and Razorpay credentials
+
+Run with flutter run
+
+📷 Screenshots (Optional)
+(Add some screenshots of the app UI if possible.)
